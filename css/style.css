@@ -11,7 +11,8 @@ body{
 }
 
 .carta{
+    margin: 0 auto;
     background-color: rgba(240, 248, 255, 0.62);
-    filter: blur(122);
+    backdrop-filter: blur(2px);
    
 }
