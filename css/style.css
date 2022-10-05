@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(250, 235, 215, 0.57);
+    background-image: url('../IMG/Untitled-1.png');
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.carta{
+    background-color: rgba(240, 248, 255, 0.62);
+    filter: blur(122);
+   
+}
